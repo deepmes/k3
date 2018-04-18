@@ -1,0 +1,20 @@
+{
+  "name": "k3",
+  "version": "0.0.1",
+  "description": "Machine Intelligence for Manufacturing Execution System",
+  "main": "index.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepmes/k3.git"
+  },
+  "author": "Kevin Mocorro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepmes/k3/issues"
+  },
+  "homepage": "https://github.com/deepmes/k3#readme",
+  "dependencies": {}
+}
